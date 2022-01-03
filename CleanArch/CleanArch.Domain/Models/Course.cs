@@ -12,10 +12,3 @@ namespace CleanArch.Domain.Models
         public string ImageUrl { get; set; }
     }
 }
-
-namespace CleanArch.Domain
-{
-    public class Course
-    {
-    }
-}
